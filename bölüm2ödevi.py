@@ -1,6 +1,6 @@
 sayi1=55
 sayi2=44
-sayi3=33
+sayi3=36
 
 if  sayi1>sayi2 and sayi1>sayi3:
     print(sayi1)

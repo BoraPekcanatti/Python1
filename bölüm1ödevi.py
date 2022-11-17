@@ -1,4 +1,4 @@
-sayi1=10
+sayi1=16
 sayi2=12
 
 if sayi1>sayi2:
